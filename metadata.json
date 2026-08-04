@@ -1,0 +1,6 @@
+{
+  "name": "RadioIslas HbbTV Interactive TV",
+  "description": "Aplicación HbbTV interactiva para TDT con reproductor vintage de RadioIslas, señal HD, streaming en directo, VU-metro LED de los 80, control de audio MUX/Streaming y descargas QR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
